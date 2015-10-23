@@ -10,6 +10,4 @@ Questions:
 
 
 
-
-
 2.  List the six main objects that make up the browser object model. 
